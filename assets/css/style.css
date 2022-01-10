@@ -1,0 +1,25 @@
+div.fournisseurs {
+    max-height: 70vh ;
+}
+
+
+/* bootstrap.css | http://localhost/progmaxime/bootstrap/css/bootstrap.css */
+
+.table > :not(caption) > * > * {
+    width: min-content;
+  }
+  
+
+/* Élément | http://localhost/progmaxime/fournisseurs.php */
+
+div.col-sm-4:nth-child(1) {
+    margin-right: 3px;
+  }
+  
+  /* Élément | http://localhost/progmaxime/fournisseurs.php */
+  
+  div.col-sm-4:nth-child(3) {
+    margin: ;
+    margin-top: 2px;
+  }
+  
